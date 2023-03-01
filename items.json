@@ -1,0 +1,68 @@
+[
+  {
+    "title": "The Thinker",
+    "artist": "Auguste Rodin",
+    "date": 1880,
+    "medium": "Bronze",
+    "dimensions": "27 5/8",
+    "weight": 83.9,
+    "culture": "French",
+    "gallerynumber": 800,
+    "image": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/191811/1724867/main-image"
+  },
+  {
+    "title": "Unique Forms of Continuity in Space",
+    "artist": "Umberto Boccioni",
+    "date": 1913,
+    "medium": "Bronze",
+    "dimensions": "47 3/4 × 35 × 15 3/4",
+    "weight": 90.7,
+    "culture": "Italian",
+    "gallerynumber": 908,
+    "image": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/485540/1005475/main-image"
+  },
+  {
+    "title": "California",
+    "artist": "Hiram Powers",
+    "date": 1858,
+    "medium": "Marble",
+    "dimensions": "71 x 18 1/4 x 24 3/4",
+    "weight": "N/A",
+    "culture": "American",
+    "gallerynumber": 760,
+    "image": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/11790/43465/main-image"
+  },
+  {
+    "title": "Confined",
+    "artist": "Francis Bacon",
+    "date": 1937,
+    "medium": "Paint",
+    "dimensions": "25.98 x 22.05",
+    "weight": "",
+    "culture": "European",
+    "gallerynumber": "N/A",
+    "image": "https://images.prismic.io/barnebys/9048f6c6-7173-4d8a-80a2-491535b8431b_679N10069_B5MT5_df.jpg?w=900&auto=format%2Ccompress&cs=tinysrgb"
+  },
+  {
+    "title": "Panel",
+    "artist": "N/A",
+    "date": "1644–1911",
+    "medium": "Silk",
+    "dimensions": "43 1/2 x 24 1/2 in. (110.49 x 62.23 cm)",
+    "weight": "N/A",
+    "culture": "China",
+    "gallerynumber": "N/A",
+    "image": "https://images.metmuseum.org/CRDImages/as/original/7377.jpg"
+  },
+  {
+    "title": "The Seine at Vetheuil",
+    "artist": "Claude Monet",
+    "date": 1880,
+    "medium": "Oil on Canvas",
+    "dimensions": "23 3/4 x 39 1/2 in.",
+    "weight": "",
+    "culture": "French",
+    "gallerynumber": 818,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Monet_-_The_Seine_at_V%C3%A9theuil%2C_Circa_1880.jpg"
+  }
+]
